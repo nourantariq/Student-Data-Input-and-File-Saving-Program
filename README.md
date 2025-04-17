@@ -1,1 +1,2 @@
 # file test
+This C++ program defines a `Student` class with attributes for `firstName` and `id`. It includes methods to input student data from the user and save this data to a file. In `main()`, it creates a `Student` object, collects user input, and writes the information to a specified file path (`D:\data.txt`). The program also handles file opening errors and notifies the user upon successful saving.
